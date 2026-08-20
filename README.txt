@@ -1,18 +1,13 @@
-HOW TO UPDATE YOUR LIVE NETLIFY WEBSITE
+Motivated Mindz LLC website
 
-1. Download motivated-mindz-updated.zip.
-2. Right-click the ZIP and choose Extract All.
-3. Log in to Netlify.
-4. Open your Motivated Mindz website.
-5. Click Deploys.
-6. Scroll to the manual deploy area.
-7. Drag the extracted motivated-mindz-updated folder into Netlify.
-8. Wait until the deploy says Published.
-9. Refresh motivatedmindz.info.
+Added Business Starter Package — $299:
+- Simple one-page website
+- Google Business Profile assistance
+- Professional business email setup
+- QR code linking to website
+- Facebook/Instagram business-page setup
+- Basic digital flyer
 
-Updated information:
-Motivated Mindz LLC
-304-308-3079
-contact@motivatedmindz.info
-Morgantown, WV
-Focused Mind. Limitless Possibilities.
+Stripe payment area is marked as coming soon. A live Stripe Payment Link or Stripe Checkout button can be connected later.
+
+To publish on Netlify: unzip this package, open your site in Netlify, go to Deploys, and drag this folder into the manual deploy area.
